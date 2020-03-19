@@ -7,6 +7,7 @@
 - [HOW DOES COVID-19 AFFECT THE BODY?](https://www.youtube.com/watch?v=Xj1nUFFVK1E)
 - [Where Do New Viruses Come From?](https://www.youtube.com/watch?v=NJLXdsO1GBI)
 - [deadlist virus](https://www.livescience.com/56598-deadliest-viruses-on-earth.html)
+- [Wuhan virus compared to MERS and SARS](https://www.youtube.com/watch?v=u7D3AoNdp84)
 - [live tracking](https://www.worldometers.info/coronavirus/#countries)
 
 ### Kaggle competition
