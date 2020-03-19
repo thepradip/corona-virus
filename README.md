@@ -10,3 +10,4 @@
 ### Kaggle competition
 - [some propose Task on corona virus](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks)
 - [corona infomation documentation](http://coronavirus.scientificanimations.com/)
+- [search for cure](http://coronavirus.scientificanimations.com/search-for-cure/)
