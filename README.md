@@ -17,4 +17,14 @@
 ### some observation and research
 - [corona research](https://pages.semanticscholar.org/coronavirus-research)
 -  SARS-CoV and SARS-CoV-2, MERS has no approved treatments or vaccine.(2002-2012-2019)
+### new Task
+- explore dataset
+- task scrap live data and find insight
+- classify based on age, gender, medical history...
+-  SARS-CoV and SARS-CoV-2, MERS find relation 
+- virus are adapting new situation, how?
+- virus-> animal-> human
+- prevention mechanism
+- is mental health affect virus attack?
+- can we do analysis RNA and DNA level?
 
