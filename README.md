@@ -5,3 +5,8 @@
 - [Where Did Viruses Come From?](https://www.youtube.com/watch?v=X31g5TB-MRo)
 - [What is a virus? How do viruses work?](https://www.youtube.com/watch?v=7KXHwhTghWI)
 - [HOW DOES COVID-19 AFFECT THE BODY?](https://www.youtube.com/watch?v=Xj1nUFFVK1E)
+- [Where Do New Viruses Come From?](https://www.youtube.com/watch?v=NJLXdsO1GBI)
+
+### Kaggle competition
+- [some propose Task on corona virus](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks)
+- [corona infomation documentation](http://coronavirus.scientificanimations.com/)
