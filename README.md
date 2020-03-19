@@ -7,8 +7,10 @@
 - [HOW DOES COVID-19 AFFECT THE BODY?](https://www.youtube.com/watch?v=Xj1nUFFVK1E)
 - [Where Do New Viruses Come From?](https://www.youtube.com/watch?v=NJLXdsO1GBI)
 - [deadlist virus](https://www.livescience.com/56598-deadliest-viruses-on-earth.html)
+- [live tracking](https://www.worldometers.info/coronavirus/#countries)
 
 ### Kaggle competition
 - [some propose Task on corona virus](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks)
 - [corona infomation documentation](http://coronavirus.scientificanimations.com/)
 - [search for cure](http://coronavirus.scientificanimations.com/search-for-cure/)
+
