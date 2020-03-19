@@ -14,4 +14,6 @@
 - [some propose Task on corona virus](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks)
 - [corona infomation documentation](http://coronavirus.scientificanimations.com/)
 - [search for cure](http://coronavirus.scientificanimations.com/search-for-cure/)
+### some observation
+-  SARS-CoV and SARS-CoV-2, MERS has no approved treatments or vaccine.(2002-2012-2019)
 
