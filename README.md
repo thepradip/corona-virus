@@ -9,6 +9,10 @@
 - [deadlist virus](https://www.livescience.com/56598-deadliest-viruses-on-earth.html)
 - [Wuhan virus compared to MERS and SARS](https://www.youtube.com/watch?v=u7D3AoNdp84)
 - [live tracking](https://www.worldometers.info/coronavirus/#countries)
+- [simulation corona](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+- [How Much Worse the Coronavirus Could Get, in Charts](https://www.nytimes.com/interactive/2020/03/13/opinion/coronavirus-trump-response.html)
+- [coronavirus-act-today-or-people-will-die](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
+- [full article corona](https://jamanetwork.com/journals/jama/fullarticle/2762130)
 
 ### Kaggle competition
 - [some propose Task on corona virus](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks)
